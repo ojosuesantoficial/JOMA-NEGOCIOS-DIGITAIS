@@ -1,0 +1,8 @@
+{
+  "name": "Backup - JOMA AI Studio",
+  "description": "Uma plataforma de IA para gerar histórias, áudios, imagens e títulos usando a API Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
